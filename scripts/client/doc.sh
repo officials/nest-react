@@ -1,0 +1,1 @@
+typedoc --out '../../src/client/index.tsx' '../../docs/client'

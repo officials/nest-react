@@ -1,0 +1,1 @@
+jest --config ./test/jest-e2e.json
